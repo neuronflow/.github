@@ -12,7 +12,7 @@ Concretely, we ask whether our metrics actually reflect what experts see. With p
 
 Happy to chat about open science, reproducibility, or turning research into tools people actually use.
 
-👉 **Check out the [Kofler Lab on GitHub](https://github.com/koflerlab) for our latest work.**
+👉 **Check out [koflerlab on GitHub](https://github.com/koflerlab) for our latest work.**
 
 ---
 
